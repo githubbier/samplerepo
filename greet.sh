@@ -1,1 +1,2 @@
-echo nicec %USER
+date
+echo nice pt.2 
