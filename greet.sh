@@ -1,1 +1,1 @@
-echo nicec %USER
+echo nice %USER
